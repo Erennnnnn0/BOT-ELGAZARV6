@@ -16,22 +16,22 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['212690349201'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
-global.socialm = "GitHub: ELGAZAR" //ur github or insta name
-global.location = "Africa, Egypt, Cairo" //ur location
+global.ownername = "erenobot❤️" //ur owner name
+global.ytname = "erenobot " //ur yt chanel name
+global.socialm = "GitHub: " //ur github or insta name
+global.location = "Africa,Moroccan , nador" //ur location
 
 //bot bomdy 
 global.ownernomer = "212690349201" //ur number
 global.premium = ['212690349201'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
-global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
+global.botname = 'erenobot' //ur bot name
+global.linkz = "" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
-global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
+global.botscript = '' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣212690349201⍣" //ur sticker watermark author
-global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
+global.packname = "⍣ boteren ⍣" //ur sticker watermark packname
+global.author = "⍣0690349201⍣" //ur sticker watermark author
+global.wm = "erenobot." //ur watermark
 
 // Other
 global.sessionName = 'session'
